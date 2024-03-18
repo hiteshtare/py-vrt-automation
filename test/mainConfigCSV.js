@@ -10,7 +10,7 @@ let testScenarios = [];
 
 scenarioJSON.map((s) => {
   const obj = {
-    cookiePath: "backstop_data/engine_scripts/cookies.json",
+    cookiePath: "../../test/engine_scripts/cookies.json",
     readyEvent: "",
     readySelector: "",
     delay: THREE_SECONDS_IN_MS,
@@ -59,10 +59,11 @@ module.exports = {
     bitmaps_test: "backstop_data/bitmaps_test",
     html_report: "backstop_data/html_report",
   },
-  report: ["CI"],
+  report: ["json"],
   engine: "puppeteer",
   engineOptions: {
-    args: ["--no-sandbox"]
+    args: ["--no-sandbox"],
+    headless: "new"
   },
   asyncCaptureLimit: 5,
   asyncCompareLimit: 50,

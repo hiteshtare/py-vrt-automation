@@ -14,7 +14,7 @@ module.exports = async (page, scenario, vp) => {
   console.disableLogging();
   
   //Should be used if there is lazy loading on site, it may slow down the tests
- if ((scenario.sIndex == 1)) {
+ if ((scenario.sIndex == 2)) {
     console.enableLogging();
   }
 }
