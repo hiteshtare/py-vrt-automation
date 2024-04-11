@@ -11,7 +11,10 @@ const viewports = [
   "desktop",
 ];
 
+const delayInMS = 15000;
+
 module.exports = {
   projectId,
-  viewports
+  viewports,
+  delayInMS
 };

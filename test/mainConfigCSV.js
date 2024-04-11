@@ -1,7 +1,6 @@
 const basicConfig = require("./basicConfig");
 // Get user defined scenario json
 const scenarioJSON = require("../data/scenarios.json");
-const THREE_SECONDS_IN_MS = 15000;
 const viewports = [];
 
 
@@ -13,7 +12,7 @@ scenarioJSON.map((s) => {
     cookiePath: "../../test/engine_scripts/cookies.json",
     readyEvent: "",
     readySelector: "",
-    delay: THREE_SECONDS_IN_MS,
+    delay:  basicConfig.delayInMS,
     requireSameDimensions: false,
     hideSelectors: [],
     removeSelectors: [],

@@ -1,1 +1,737 @@
-[{"label":"2-Commemoration Event - Past Event","referenceUrl":"https://yssofindia.org/event/mahavatar-babaji-smriti-divas","url":"https://yssofindia.org/event/mahavatar-babaji-smriti-divas?1111"},{"label":"3-Monastic Tour - 1 day - Upcoming","referenceUrl":"https://yssofindia.org/event/monastic-tour-siliguri-march-2024","url":"https://yssofindia.org/event/monastic-tour-siliguri-march-2024?1111"},{"label":"4-Monastic Tour - 2 days - Upcoming","referenceUrl":"https://yssofindia.org/event/monastic-tour-guwahati-april-2024","url":"https://yssofindia.org/event/monastic-tour-guwahati-april-2024?1111"}]
+[
+  {
+    "label": "IP-PE-1 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-madurai-july-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-madurai-july-2022?4444"
+  },
+  {
+    "label": "IP-PE-2 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-noida-july-2022",
+    "url": "https://test.yssofindia.org/event/retreat-noida-july-2022?4445"
+  },
+  {
+    "label": "IP-PE-3 / English",
+    "referenceUrl": "https://yssofindia.org/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2022",
+    "url": "https://test.yssofindia.org/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2022?4446"
+  },
+  {
+    "label": "IP-PE-4 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-nayagarh-july-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-nayagarh-july-2022?4447"
+  },
+  {
+    "label": "IP-PE-5 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-rourkela-august-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-rourkela-august-2022?4448"
+  },
+  {
+    "label": "IP-PE-6 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-puducherry-august-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-puducherry-august-2022?4449"
+  },
+  {
+    "label": "IP-PE-7 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-bilaspur-august-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-bilaspur-august-2022?4450"
+  },
+  {
+    "label": "IP-PE-8 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-noida-august-2022",
+    "url": "https://test.yssofindia.org/event/retreat-noida-august-2022?4451"
+  },
+  {
+    "label": "IP-PE-9 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-dakshineswar-august-2022",
+    "url": "https://test.yssofindia.org/event/retreat-dakshineswar-august-2022?4452"
+  },
+  {
+    "label": "IP-PE-10 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-chittoor-august-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-chittoor-august-2022?4453"
+  },
+  {
+    "label": "IP-PE-11 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-chennai-july-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-chennai-july-2022?4454"
+  },
+  {
+    "label": "IP-PE-12 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2022",
+    "url": "https://test.yssofindia.org/ta/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2022?4455"
+  },
+  {
+    "label": "IP-PE-13 / English",
+    "referenceUrl": "https://yssofindia.org/hi/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2022",
+    "url": "https://test.yssofindia.org/hi/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2022?4456"
+  },
+  {
+    "label": "IP-PE-14 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-visakhapatnam-september-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-visakhapatnam-september-2022?4457"
+  },
+  {
+    "label": "IP-PE-15 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-belagavi-september-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-belagavi-september-2022?4458"
+  },
+  {
+    "label": "IP-PE-16 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-mangaluru-september-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-mangaluru-september-2022?4459"
+  },
+  {
+    "label": "IP-PE-17 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-mysuru-september-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-mysuru-september-2022?4460"
+  },
+  {
+    "label": "IP-PE-18 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-dakshineswar-september-2022",
+    "url": "https://test.yssofindia.org/event/retreat-dakshineswar-september-2022?4461"
+  },
+  {
+    "label": "IP-PE-19 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-dwarahat-september-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-dwarahat-september-2022?4462"
+  },
+  {
+    "label": "IP-PE-20 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-jaipur-september-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-jaipur-september-2022?4463"
+  },
+  {
+    "label": "IP-PE-21 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-chandigarh-october-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-chandigarh-october-2022?4464"
+  },
+  {
+    "label": "IP-PE-22 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-dihika-october-2022",
+    "url": "https://test.yssofindia.org/event/retreat-dihika-october-2022?4465"
+  },
+  {
+    "label": "IP-PE-23 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-jammu-october-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-jammu-october-2022?4466"
+  },
+  {
+    "label": "IP-PE-24 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-ahmedabad-november-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-ahmedabad-november-2022?4467"
+  },
+  {
+    "label": "IP-PE-25 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-pathankot-november-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-pathankot-november-2022?4468"
+  },
+  {
+    "label": "IP-PE-26 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-indore-november-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-indore-november-2022?4469"
+  },
+  {
+    "label": "IP-PE-27 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-jalandhar-november-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-jalandhar-november-2022?4470"
+  },
+  {
+    "label": "IP-PE-28 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-mumbai-november-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-mumbai-november-2022?4471"
+  },
+  {
+    "label": "IP-PE-29 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-thiruvananthapuram-december-2022",
+    "url": "https://test.yssofindia.org/event/monastic-tour-thiruvananthapuram-december-2022?4472"
+  },
+  {
+    "label": "IP-PE-30 / English",
+    "referenceUrl": "https://yssofindia.org/event/kriya-yoga-diksha-ceremony-noida-december-2022",
+    "url": "https://test.yssofindia.org/event/kriya-yoga-diksha-ceremony-noida-december-2022?4473"
+  },
+  {
+    "label": "IP-PE-31 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-puri-december-2022",
+    "url": "https://test.yssofindia.org/event/retreat-puri-december-2022?4474"
+  },
+  {
+    "label": "IP-PE-32 / English",
+    "referenceUrl": "https://yssofindia.org/event/sadhana-sangam-noida-september-2022",
+    "url": "https://test.yssofindia.org/event/sadhana-sangam-noida-september-2022?4475"
+  },
+  {
+    "label": "IP-PE-33 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/retreat-puri-december-2022",
+    "url": "https://test.yssofindia.org/te/event/retreat-puri-december-2022?4476"
+  },
+  {
+    "label": "IP-PE-34 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/retreat-dakshineswar-september-2022",
+    "url": "https://test.yssofindia.org/te/event/retreat-dakshineswar-september-2022?4477"
+  },
+  {
+    "label": "IP-PE-35 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/retreat-dihika-october-2022",
+    "url": "https://test.yssofindia.org/te/event/retreat-dihika-october-2022?4478"
+  },
+  {
+    "label": "IP-PE-36 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/retreat-dihika-october-2022",
+    "url": "https://test.yssofindia.org/ta/event/retreat-dihika-october-2022?4479"
+  },
+  {
+    "label": "IP-PE-37 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/retreat-puri-december-2022",
+    "url": "https://test.yssofindia.org/ta/event/retreat-puri-december-2022?4480"
+  },
+  {
+    "label": "IP-PE-38 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-ludhiana-march-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-ludhiana-march-2023?4481"
+  },
+  {
+    "label": "IP-PE-39 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-dehradun-march-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-dehradun-march-2023?4482"
+  },
+  {
+    "label": "IP-PE-40 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-noida-march-2023",
+    "url": "https://test.yssofindia.org/event/retreat-noida-march-2023?4483"
+  },
+  {
+    "label": "IP-PE-41 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-dwarahat-april-2023",
+    "url": "https://test.yssofindia.org/event/retreat-dwarahat-april-2023?4484"
+  },
+  {
+    "label": "IP-PE-42 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-guwahati-april-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-guwahati-april-2023?4485"
+  },
+  {
+    "label": "IP-PE-43 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-brahmapur-april-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-brahmapur-april-2023?4486"
+  },
+  {
+    "label": "IP-PE-44 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-sambalpur-april-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-sambalpur-april-2023?4487"
+  },
+  {
+    "label": "IP-PE-45 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-muzaffarpur-april-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-muzaffarpur-april-2023?4488"
+  },
+  {
+    "label": "IP-PE-46 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-kopundole-april-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-kopundole-april-2023?4489"
+  },
+  {
+    "label": "IP-PE-47 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-pokhara-april-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-pokhara-april-2023?4490"
+  },
+  {
+    "label": "IP-PE-48 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-kullu-may-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-kullu-may-2023?4491"
+  },
+  {
+    "label": "IP-PE-49 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-shimla-may-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-shimla-may-2023?4492"
+  },
+  {
+    "label": "IP-PE-50 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/retreat-noida-march-2023",
+    "url": "https://test.yssofindia.org/te/event/retreat-noida-march-2023?4493"
+  },
+  {
+    "label": "IP-PE-51 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/retreat-dwarahat-april-2023",
+    "url": "https://test.yssofindia.org/te/event/retreat-dwarahat-april-2023?4494"
+  },
+  {
+    "label": "IP-PE-52 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/retreat-noida-march-2023",
+    "url": "https://test.yssofindia.org/ta/event/retreat-noida-march-2023?4495"
+  },
+  {
+    "label": "IP-PE-53 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/retreat-dwarahat-april-2023",
+    "url": "https://test.yssofindia.org/ta/event/retreat-dwarahat-april-2023?4496"
+  },
+  {
+    "label": "IP-PE-54 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-guwahati-april-2023",
+    "url": "https://test.yssofindia.org/ta/event/monastic-tour-guwahati-april-2023?4497"
+  },
+  {
+    "label": "IP-PE-55 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-brahmapur-april-2023",
+    "url": "https://test.yssofindia.org/ta/event/monastic-tour-brahmapur-april-2023?4498"
+  },
+  {
+    "label": "IP-PE-56 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-sambalpur-april-2023",
+    "url": "https://test.yssofindia.org/ta/event/monastic-tour-sambalpur-april-2023?4499"
+  },
+  {
+    "label": "IP-PE-57 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-kopundole-april-2023",
+    "url": "https://test.yssofindia.org/ta/event/monastic-tour-kopundole-april-2023?4500"
+  },
+  {
+    "label": "IP-PE-58 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-kullu-may-2023",
+    "url": "https://test.yssofindia.org/ta/event/monastic-tour-kullu-may-2023?4501"
+  },
+  {
+    "label": "IP-PE-59 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-shimla-may-2023",
+    "url": "https://test.yssofindia.org/ta/event/monastic-tour-shimla-may-2023?4502"
+  },
+  {
+    "label": "IP-PE-60 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-pokhara-april-2023",
+    "url": "https://test.yssofindia.org/ta/event/monastic-tour-pokhara-april-2023?4503"
+  },
+  {
+    "label": "IP-PE-61 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-muzaffarpur-april-2023",
+    "url": "https://test.yssofindia.org/ta/event/monastic-tour-muzaffarpur-april-2023?4504"
+  },
+  {
+    "label": "IP-PE-62 / English",
+    "referenceUrl": "https://yssofindia.org/hi/event/retreat-noida-march-2023",
+    "url": "https://test.yssofindia.org/hi/event/retreat-noida-march-2023?4505"
+  },
+  {
+    "label": "IP-PE-63 / English",
+    "referenceUrl": "https://yssofindia.org/hi/event/retreat-dwarahat-april-2023",
+    "url": "https://test.yssofindia.org/hi/event/retreat-dwarahat-april-2023?4506"
+  },
+  {
+    "label": "IP-PE-64 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/monastic-tour-sambalpur-april-2023",
+    "url": "https://test.yssofindia.org/te/event/monastic-tour-sambalpur-april-2023?4507"
+  },
+  {
+    "label": "IP-PE-65 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/monastic-tour-muzaffarpur-april-2023",
+    "url": "https://test.yssofindia.org/te/event/monastic-tour-muzaffarpur-april-2023?4508"
+  },
+  {
+    "label": "IP-PE-66 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/monastic-tour-kopundole-april-2023",
+    "url": "https://test.yssofindia.org/te/event/monastic-tour-kopundole-april-2023?4509"
+  },
+  {
+    "label": "IP-PE-67 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/monastic-tour-pokhara-april-2023",
+    "url": "https://test.yssofindia.org/te/event/monastic-tour-pokhara-april-2023?4510"
+  },
+  {
+    "label": "IP-PE-68 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/monastic-tour-kullu-may-2023",
+    "url": "https://test.yssofindia.org/te/event/monastic-tour-kullu-may-2023?4511"
+  },
+  {
+    "label": "IP-PE-69 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/monastic-tour-shimla-may-2023",
+    "url": "https://test.yssofindia.org/te/event/monastic-tour-shimla-may-2023?4512"
+  },
+  {
+    "label": "IP-PE-70 / English",
+    "referenceUrl": "https://yssofindia.org/hi/event/monastic-tour-muzaffarpur-april-2023",
+    "url": "https://test.yssofindia.org/hi/event/monastic-tour-muzaffarpur-april-2023?4513"
+  },
+  {
+    "label": "IP-PE-71 / English",
+    "referenceUrl": "https://yssofindia.org/hi/event/monastic-tour-kopundole-april-2023",
+    "url": "https://test.yssofindia.org/hi/event/monastic-tour-kopundole-april-2023?4514"
+  },
+  {
+    "label": "IP-PE-72 / English",
+    "referenceUrl": "https://yssofindia.org/hi/event/monastic-tour-pokhara-april-2023",
+    "url": "https://test.yssofindia.org/hi/event/monastic-tour-pokhara-april-2023?4515"
+  },
+  {
+    "label": "IP-PE-73 / English",
+    "referenceUrl": "https://yssofindia.org/hi/event/monastic-tour-kullu-may-2023",
+    "url": "https://test.yssofindia.org/hi/event/monastic-tour-kullu-may-2023?4516"
+  },
+  {
+    "label": "IP-PE-74 / English",
+    "referenceUrl": "https://yssofindia.org/hi/event/monastic-tour-shimla-may-2023",
+    "url": "https://test.yssofindia.org/hi/event/monastic-tour-shimla-may-2023?4517"
+  },
+  {
+    "label": "IP-PE-75 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-vizianagaram-july-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-vizianagaram-july-2023?4518"
+  },
+  {
+    "label": "IP-PE-76 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-tuni-july-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-tuni-july-2023?4519"
+  },
+  {
+    "label": "IP-PE-77 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-vijayawada-july-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-vijayawada-july-2023?4520"
+  },
+  {
+    "label": "IP-PE-78 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-anantapur-july-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-anantapur-july-2023?4521"
+  },
+  {
+    "label": "IP-PE-79 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-vellore-july-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-vellore-july-2023?4522"
+  },
+  {
+    "label": "IP-PE-80 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-coimbatore-july-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-coimbatore-july-2023?4523"
+  },
+  {
+    "label": "IP-PE-81 / English",
+    "referenceUrl": "https://yssofindia.org/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2023",
+    "url": "https://test.yssofindia.org/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2023?4524"
+  },
+  {
+    "label": "IP-PE-82 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-thanjavur-july-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-thanjavur-july-2023?4525"
+  },
+  {
+    "label": "IP-PE-83 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-noida-august-2023",
+    "url": "https://test.yssofindia.org/event/retreat-noida-august-2023?4526"
+  },
+  {
+    "label": "IP-PE-84 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-prayagraj-august-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-prayagraj-august-2023?4527"
+  },
+  {
+    "label": "IP-PE-85 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-kanpur-august-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-kanpur-august-2023?4528"
+  },
+  {
+    "label": "IP-PE-86 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-bijainagar-august-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-bijainagar-august-2023?4529"
+  },
+  {
+    "label": "IP-PE-87 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-hissar-august-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-hissar-august-2023?4530"
+  },
+  {
+    "label": "IP-PE-88 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/monastic-tour-vizianagaram-july-2023",
+    "url": "https://test.yssofindia.org/te/event/monastic-tour-vizianagaram-july-2023?4531"
+  },
+  {
+    "label": "IP-PE-89 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/monastic-tour-anantapur-july-2023",
+    "url": "https://test.yssofindia.org/te/event/monastic-tour-anantapur-july-2023?4532"
+  },
+  {
+    "label": "IP-PE-90 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/retreat-noida-august-2023",
+    "url": "https://test.yssofindia.org/te/event/retreat-noida-august-2023?4533"
+  },
+  {
+    "label": "IP-PE-91 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/monastic-tour-tuni-july-2023",
+    "url": "https://test.yssofindia.org/te/event/monastic-tour-tuni-july-2023?4534"
+  },
+  {
+    "label": "IP-PE-92 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/monastic-tour-vijayawada-july-2023",
+    "url": "https://test.yssofindia.org/te/event/monastic-tour-vijayawada-july-2023?4535"
+  },
+  {
+    "label": "IP-PE-93 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-vellore-july-2023",
+    "url": "https://test.yssofindia.org/ta/event/monastic-tour-vellore-july-2023?4536"
+  },
+  {
+    "label": "IP-PE-94 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-coimbatore-july-2023",
+    "url": "https://test.yssofindia.org/ta/event/monastic-tour-coimbatore-july-2023?4537"
+  },
+  {
+    "label": "IP-PE-95 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/monastic-tour-thanjavur-july-2023",
+    "url": "https://test.yssofindia.org/ta/event/monastic-tour-thanjavur-july-2023?4538"
+  },
+  {
+    "label": "IP-PE-96 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/retreat-noida-august-2023",
+    "url": "https://test.yssofindia.org/ta/event/retreat-noida-august-2023?4539"
+  },
+  {
+    "label": "IP-PE-97 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-thrissur-september-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-thrissur-september-2023?4540"
+  },
+  {
+    "label": "IP-PE-98 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-bengaluru-september-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-bengaluru-september-2023?4541"
+  },
+  {
+    "label": "IP-PE-99 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-ballari-september-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-ballari-september-2023?4542"
+  },
+  {
+    "label": "IP-PE-100 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-lucknow-september-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-lucknow-september-2023?4543"
+  },
+  {
+    "label": "IP-PE-101 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-panjim-september-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-panjim-september-2023?4544"
+  },
+  {
+    "label": "IP-PE-102 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-patna-september-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-patna-september-2023?4545"
+  },
+  {
+    "label": "IP-PE-103 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-nagpur-october-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-nagpur-october-2023?4546"
+  },
+  {
+    "label": "IP-PE-104 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-jodhpur-october-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-jodhpur-october-2023?4547"
+  },
+  {
+    "label": "IP-PE-105 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-kolhapur-october-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-kolhapur-october-2023?4548"
+  },
+  {
+    "label": "IP-PE-106 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-dwarahat-september-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-dwarahat-september-2023?4549"
+  },
+  {
+    "label": "IP-PE-107 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-puri-november-2023",
+    "url": "https://test.yssofindia.org/event/retreat-puri-november-2023?4550"
+  },
+  {
+    "label": "IP-PE-108 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-noida-september-2023",
+    "url": "https://test.yssofindia.org/event/retreat-noida-september-2023?4551"
+  },
+  {
+    "label": "IP-PE-109 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-korba-november-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-korba-november-2023?4552"
+  },
+  {
+    "label": "IP-PE-110 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-puri-december-2023",
+    "url": "https://test.yssofindia.org/event/retreat-puri-december-2023?4553"
+  },
+  {
+    "label": "IP-PE-111 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-bhopal-december-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-bhopal-december-2023?4554"
+  },
+  {
+    "label": "IP-PE-112 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-pune-december-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-pune-december-2023?4555"
+  },
+  {
+    "label": "IP-PE-113 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-raipur-december-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-raipur-december-2023?4556"
+  },
+  {
+    "label": "IP-PE-114 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-bhuj-december-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-bhuj-december-2023?4557"
+  },
+  {
+    "label": "IP-PE-115 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-rajkot-december-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-rajkot-december-2023?4558"
+  },
+  {
+    "label": "IP-PE-116 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-surat-december-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-surat-december-2023?4559"
+  },
+  {
+    "label": "IP-PE-117 / English",
+    "referenceUrl": "https://yssofindia.org/event/retreat-dihika-december-2023",
+    "url": "https://test.yssofindia.org/event/retreat-dihika-december-2023?4560"
+  },
+  {
+    "label": "IP-PE-118 / English",
+    "referenceUrl": "https://yssofindia.org/ta/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2023",
+    "url": "https://test.yssofindia.org/ta/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2023?4561"
+  },
+  {
+    "label": "IP-PE-119 / English",
+    "referenceUrl": "https://yssofindia.org/te/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2023",
+    "url": "https://test.yssofindia.org/te/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2023?4562"
+  },
+  {
+    "label": "IP-PE-120 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-bhimavaram-december-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-bhimavaram-december-2023?4563"
+  },
+  {
+    "label": "IP-PE-121 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-khammam-december-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-khammam-december-2023?4564"
+  },
+  {
+    "label": "IP-PE-122 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-palamaner-december-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-palamaner-december-2023?4565"
+  },
+  {
+    "label": "IP-PE-123 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-chennai-december-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-chennai-december-2023?4566"
+  },
+  {
+    "label": "IP-PE-124 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-tirunelveli-december-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-tirunelveli-december-2023?4567"
+  },
+  {
+    "label": "IP-PE-125 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-paramakudi-december-2023",
+    "url": "https://test.yssofindia.org/event/monastic-tour-paramakudi-december-2023?4568"
+  },
+  {
+    "label": "IP-PE-126 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-bareilly-january-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-bareilly-january-2024?4569"
+  },
+  {
+    "label": "IP-PE-127 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-ajmer-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-ajmer-february-2024?4570"
+  },
+  {
+    "label": "IP-PE-128 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-surana-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-surana-february-2024?4571"
+  },
+  {
+    "label": "IP-PE-129 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-warangal-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-warangal-february-2024?4572"
+  },
+  {
+    "label": "IP-PE-130 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-pithapuram-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-pithapuram-february-2024?4573"
+  },
+  {
+    "label": "IP-PE-131 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-daraunda-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-daraunda-february-2024?4574"
+  },
+  {
+    "label": "IP-PE-132 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-udaipur-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-udaipur-february-2024?4575"
+  },
+  {
+    "label": "IP-PE-133 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-guntur-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-guntur-february-2024?4576"
+  },
+  {
+    "label": "IP-PE-134 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-vijapur-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-vijapur-february-2024?4577"
+  },
+  {
+    "label": "IP-PE-135 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-porbandar-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-porbandar-february-2024?4578"
+  },
+  {
+    "label": "IP-PE-136 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-bhubaneswar-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-bhubaneswar-february-2024?4579"
+  },
+  {
+    "label": "IP-PE-137 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-bhavnagar-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-bhavnagar-february-2024?4580"
+  },
+  {
+    "label": "IP-PE-138 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-cochin-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-cochin-february-2024?4581"
+  },
+  {
+    "label": "IP-PE-139 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-kannur-february-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-kannur-february-2024?4582"
+  },
+  {
+    "label": "IP-PE-140 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-arsikere-march-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-arsikere-march-2024?4583"
+  },
+  {
+    "label": "IP-PE-141 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-gorakhpur-march-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-gorakhpur-march-2024?4584"
+  },
+  {
+    "label": "IP-PE-142 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-bailhongal-march-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-bailhongal-march-2024?4585"
+  },
+  {
+    "label": "IP-PE-143 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-varanasi-march-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-varanasi-march-2024?4586"
+  },
+  {
+    "label": "IP-PE-144 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-nasik-march-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-nasik-march-2024?4587"
+  },
+  {
+    "label": "IP-PE-145 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-haridwar-march-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-haridwar-march-2024?4588"
+  },
+  {
+    "label": "IP-PE-146 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-mumbai-march-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-mumbai-march-2024?4589"
+  },
+  {
+    "label": "IP-PE-147 / English",
+    "referenceUrl": "https://yssofindia.org/event/monastic-tour-dakshineswar-january-2024",
+    "url": "https://test.yssofindia.org/event/monastic-tour-dakshineswar-january-2024?4590"
+  }
+]
