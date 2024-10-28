@@ -2,6 +2,9 @@
 const basicConfig = require("./../../test/basicConfig");
 // tests/visual-tests/test/basicConfig.js
 module.exports = async (page, scenario, vp) => {
+  //For click & hover Selector
+  await require('./clickAndHoverHelper')(page, scenario);
+
   console.enableLogging();
   console.log(`Scenario ${scenario.sIndex + 1} > ${scenario.label} (${vp.label})`);
   // console.warn(`scenario.sIndex: ${scenario.sIndex} | vp.vIndex: ${vp.vIndex}`);

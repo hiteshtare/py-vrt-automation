@@ -16,8 +16,6 @@ scenarioJSON.map((s) => {
     requireSameDimensions: false,
     hideSelectors: [],
     removeSelectors: [],
-    hoverSelector: "",
-    clickSelector: "",
     postInteractionWait: 0,
     selectors: [],
     selectorExpansion: true,
@@ -28,9 +26,9 @@ scenarioJSON.map((s) => {
 });
 
 basicConfig.viewports.map(viewport => {
-  if (viewport === "iPhone") {
-    pushViewport(viewport, 375, 667);
-  }
+  // if (viewport === "iPhone") {
+  //   pushViewport(viewport, 375, 667);
+  // }
   // if (viewport === "tablet") {
   //   pushViewport(viewport, 1024, 768);
   // }

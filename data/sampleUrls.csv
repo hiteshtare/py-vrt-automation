@@ -1,4 +1,3 @@
-label,referenceUrl,url
-IP-PE-1 / English,https://yssofindia.org/event/monastic-tour-madurai-july-2022,https://test.yssofindia.org/event/monastic-tour-madurai-july-2022?4444
-IP-PE-2 / English,https://yssofindia.org/event/retreat-noida-july-2022,https://test.yssofindia.org/event/retreat-noida-july-2022?4445
-IP-PE-3 / English,https://yssofindia.org/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2022,https://test.yssofindia.org/event/mahavatar-babaji-smriti-divas-celebration-dwarahat-july-2022?4446
+label,referenceUrl,url,clickSelector,hoverSelector
+Kriya Yoga / English,https://yssofindia.org/yss-lessons,https://test.yssofindia.org/yss-lessons?4444,"#applynow",""
+PT India 25 / English,https://yssofindia.org/event/presidents-india-tour,https://test.yssofindia.org/event/presidents-india-tour?4444,"",".elementor-size-md"
